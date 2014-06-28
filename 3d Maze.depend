@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1361934912 source:c:\users\administrator\desktop\3d maze\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1360940729 c:\users\administrator\desktop\3d maze\header.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+
+1361375187 c:\users\administrator\desktop\3d maze\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1361936547 c:\users\administrator\desktop\3d maze\cube.h
+	"primary.h"
+
+1361349950 c:\users\administrator\desktop\3d maze\primary.h
+	<vector>
+	<math.h>
+
+1360985821 source:c:\users\administrator\desktop\3d maze\dpoint.cpp
+	"primary.h"
+
+1361958939 source:c:\users\administrator\desktop\3d maze - copy (3)\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1361958659 c:\users\administrator\desktop\3d maze - copy (3)\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1361958798 c:\users\administrator\desktop\3d maze - copy (3)\cube.h
+	"primary.h"
+
+1361349950 c:\users\administrator\desktop\3d maze - copy (3)\primary.h
+	<vector>
+	<math.h>
+
+1360985821 source:c:\users\administrator\desktop\3d maze - copy (3)\dpoint.cpp
+	"primary.h"
+
+1360985821 source:c:\users\administrator\desktop\3d maze - copy (2)\dpoint.cpp
+	"primary.h"
+
+1361349950 c:\users\administrator\desktop\3d maze - copy (2)\primary.h
+	<vector>
+	<math.h>
+
+1362114892 source:c:\users\administrator\desktop\3d maze - copy (2)\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1361958659 c:\users\administrator\desktop\3d maze - copy (2)\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1362114954 c:\users\administrator\desktop\3d maze - copy (2)\cube.h
+	"primary.h"
+
+1362298920 source:c:\users\administrator\desktop\3d maze - gouraud\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1361958659 c:\users\administrator\desktop\3d maze - gouraud\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1362298920 c:\users\administrator\desktop\3d maze - gouraud\cube.h
+	"primary.h"
+
+1362152540 c:\users\administrator\desktop\3d maze - gouraud\primary.h
+	<vector>
+	<math.h>
+
+1360985821 source:c:\users\administrator\desktop\3d maze - gouraud\dpoint.cpp
+	"primary.h"
+
+1360985821 source:c:\users\administrator\desktop\3d maze - gouraud - copy\dpoint.cpp
+	"primary.h"
+
+1362152540 c:\users\administrator\desktop\3d maze - gouraud - copy\primary.h
+	<vector>
+	<math.h>
+
+1362377937 source:c:\users\administrator\desktop\3d maze - gouraud - copy\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1362377795 c:\users\administrator\desktop\3d maze - gouraud - copy\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1362300055 c:\users\administrator\desktop\3d maze - gouraud - copy\cube.h
+	"primary.h"
+
+1362452691 source:c:\users\administrator\desktop\3d maze - gouraud - copy - copy\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1362452133 c:\users\administrator\desktop\3d maze - gouraud - copy - copy\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1362452911 c:\users\administrator\desktop\3d maze - gouraud - copy - copy\cube.h
+	"primary.h"
+
+1362449919 c:\users\administrator\desktop\3d maze - gouraud - copy - copy\primary.h
+	<vector>
+	<math.h>
+
+1360985821 source:c:\users\administrator\desktop\3d maze - gouraud - copy - copy\dpoint.cpp
+	"primary.h"
+
+1362466465 source:c:\users\administrator\desktop\3d maze - final\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1362470069 c:\users\administrator\desktop\3d maze - final\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1362473245 c:\users\administrator\desktop\3d maze - final\cube.h
+	"primary.h"
+
+1362449919 c:\users\administrator\desktop\3d maze - final\primary.h
+	<vector>
+	<math.h>
+
+1360985821 source:c:\users\administrator\desktop\3d maze - final\dpoint.cpp
+	"primary.h"
+
+1362466465 source:c:\users\administrator\desktop\stuffs\3d maze - final\main.cpp
+	"basics.h"
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+
+1362470069 c:\users\administrator\desktop\stuffs\3d maze - final\basics.h
+	<iostream>
+	<SDL/SDL.h>
+	<math.h>
+	"cube.h"
+
+1362473245 c:\users\administrator\desktop\stuffs\3d maze - final\cube.h
+	"primary.h"
+
+1362449919 c:\users\administrator\desktop\stuffs\3d maze - final\primary.h
+	<vector>
+	<math.h>
+
+1360985821 source:c:\users\administrator\desktop\stuffs\3d maze - final\dpoint.cpp
+	"primary.h"
+
