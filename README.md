@@ -12,3 +12,9 @@ We started this project with a simple idea in mind, we wanted to be able to mode
 then later use it in various fields like games(3D maze or environment) and even for 3D maps (displaying buildings etc.). The first step was to design a "Renderer" and then a simulator.
 <p>
 Our Simulator provides the input to the Renderer and the Renderer displays the 3D model.
+
+<h3>Input</h3>
+![alt tag](https://raw.github.com/KafleSushant/3D-Maze-Simulation-and-Rendering/master/input.png)
+<br/>
+<h3>Output</h3>
+![alt tag](https://raw.github.com/KafleSushant/3D-Maze-Simulation-and-Rendering/master/output.png)
